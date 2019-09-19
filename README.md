@@ -1,3 +1,5 @@
+This would be my first encounter with JEST testing framework for JavaScript
+
 The Kata
 Return “Fizz”, “Buzz” or “FizzBuzz”.
 For a given natural number greater zero return
